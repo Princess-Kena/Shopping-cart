@@ -1,0 +1,43 @@
+.btn-circle.btn-sm { 
+   width: 30px; 
+   height: 30px; 
+   padding: 6px 0px; 
+   border-radius: 15px; 
+   font-size: 10px; 
+   text-align: center; 
+   background-color: rgb(207, 207, 207);
+} 
+
+.top-right {
+   position: absolute;
+   top: 0px;
+   right: 30px;
+}
+
+.pr {
+   padding-right: 70px;
+}
+
+.cart {
+   width: 300px;
+   height: 50px;
+   text-align: center;
+}
+
+.big {
+   font-size: 28px;
+   font-weight: 650;
+}
+
+.under-big {
+   font-size: 20px;
+}
+
+small {
+   font-size: 16px;
+}
+
+hr {
+   width: 20px;
+   background-color: rgb(221, 221, 18);
+}
